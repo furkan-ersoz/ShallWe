@@ -105,11 +105,3 @@
 - Projelere ve etkinliklere ev sahipliği yapmak.  
 - Üyelerin istedikleri zaman kullanabilecekleri bir alan sunmak.  
 
----
-
-## Önceki Sohbetlerden Ek Düşünceler
-
-- Yeni üniversite öğrencilerine ulaşmak için oryantasyon döneminde kampüslere yönelik etkinlikler düzenlemek.  
-- Topluluk üyelerine networking ve iş/staj fırsatları sağlayarak aidiyeti artırmak.  
-- Uluslararası topluluk örneklerinden (ör. AIESEC, TEDx, JCI) esinlenerek model geliştirmek.  
-- Sponsor ve marka iş birlikleriyle hem finansal hem de prestij kazancı sağlamak.  
