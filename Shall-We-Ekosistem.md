@@ -1,4 +1,8 @@
 # Shall We Ekosistem – Departmanlar & Roller
+Buradaki yapı, Shall We topluluğunun belli koşullar altında sahip olması gerektiği düşünülen iş rollerini gösterir. Bu koşullar şunlardır:
+- Başarılı Community Management
+- Başarılı Event Business
+- Başarılı Akademi
 
 ## 1. Yönetim, Strateji ve Kalite Departmanı
 - Community Manager (Topluluk Yöneticisi)
@@ -25,7 +29,6 @@
 ## 4. Shall We Akademi (Eğitim ve Gelişim Departmanı)
 - Training Coordinator (Eğitim Koordinatörü)
 - Mentorship Coordinator (Mentorluk Sorumlusu)
-- Knowledge Manager (Bilgi Yöneticisi)
 - Personal Development Coach (Kişisel Gelişim Koçu)
 
 ## 5. Teknik Departman
