@@ -19,13 +19,6 @@
 - İnsanların tek başına yapamayacağı projeleri, ekip halinde daha kaliteli ve eksiksiz şekilde gerçekleştirmek.  
 - Bu projeler sayesinde üyelere ek gelir sağlamak ve bağlılığı artırmak.
 
-- Vizyon gelişimine dair toplantı düzenlemek
-- İletişim kanallarında fikir güncellemesi yapmak (Site insta vs)
-- Team üyeleri ile bire birde iletişime geçip, onları en erken aşamada gemiye dahil etmek
-- Ardından tüm team üyeleri (yeniler dahil) ile büyük bir toplantı gerçekleştirip shall we akademi'yi başlatmak
-- Yeni team üyelerine, önceki kıdemli üyelerden mentör atamak
-- Şeffaf çalışma ve karar alma yaklaşımı için ortam yaratmak(site ya da github)
-- 
 
 **Potansiyel Proje Alanları:**
 - Record Studio  
