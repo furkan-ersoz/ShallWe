@@ -1,11 +1,15 @@
-### Gurup Oyunları
-- Kule Yapımı Yarışı 
-- Hikaye konseptli oyun 
+### Gurup Oyunları 1
 - 10 tane şey say 
-- Köstebek kim, kelimeyi bilmeyen ebe
-- vampir köylü
 - kural bulma oyunu
 - İki Gerçek, Bir Yalan
+- vampir köylü
+
+### Gurup Oyunları 2
+- Köstebek kim, kelimeyi bilmeyen ebe
+
+### Gurup Yarışlı Oyunlar
+- Kule Yapımı Yarışı 
+- Hikaye konseptli oyun 
 
 # Akış:
 - Açılış konuşması 5dk
@@ -17,7 +21,7 @@
 ### Grup İlk Tur
 - Benim Gibi Kim Var? 5-10 dk
 - İstenilen oyunlar 30 dk
-- Kule yapımı 10 dk
+- Kule yapımı 15 dk
   
 ### Yarışma
 - Kuleler yıkılacak 10 dk
@@ -27,7 +31,7 @@
   
 ### Grup İkinci Tur
 - İstenilen oyun 40
-- Hikaye oluşturma 10
+- Hikaye oluşturma 15
 
 ### Hikaye Okuma
 - Hikaye okuma 10 dk
@@ -44,6 +48,7 @@
 - Kule oyunu ihtiyaçları (pipet, nörf, oyun hamuru - lastik, pet bardak)
 - Yaka Kartı
 - Qr kod
+- kalem
 
 - Ses sistemi
 - Dönüştürücü
@@ -56,14 +61,15 @@
 - Kapı önü görevlileri seçilecek
 - Materyaller elde edilecek
 - Tanıtım yapılacak
+- İnternet mekan
 
 
 | Kategori                  | Görev / Sorumluluk      | Kişi(ler)     | Durum |
 | ------------------------- | ----------------------- | ------------- | ----- |
 | **Oyun Sunucusu**         | Kahoot                  | Elif, Efe     | ✅     |
 |                           | Have Ever               | Selinay       | ✅     |
-|                           | Kule Yapımı             | Furkan        | ✅     |
-|                           | Hikaye Oyunu            | Furkan        | ✅     |
+|                           | Kule Yapımı             | Sude          | ✅     |
+|                           | Hikaye Oyunu            | Sude          | ✅     |
 | **Masa Sorumlusu**        | Masa 1                  | Elif          | ✅     |
 |                           | Masa 2                  | Arda          | ✅     |
 |                           | Masa 3                  | Ahmet         | ✅     |
