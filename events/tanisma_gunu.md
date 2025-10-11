@@ -72,15 +72,16 @@
 |                           | Hikaye Oyunu            | Sude          | ✅     |
 | **Masa Sorumlusu**        | Masa 1                  | Elif          | ✅     |
 |                           | Masa 2                  | Arda          | ✅     |
-|                           | Masa 3                  | Ahmet         | ✅     |
+|                           | Masa 3                  | Kerem         | ✅     |
 |                           | Masa 4                  | Selinay       | ✅     |
 |                           | Masa 5                  | Yiğit         | ✅     |
 |                           | Masa 6                  | Ulaş          | ✅     |
 |                           | Masa 7                  | Emir          | ✅     |
-|                           | Yedek Masa              | Onur          | Yedek  |
+|                           | Yedek Masa              | Onur          | ✅     |
 | **Organizasyon Yönetimi** | Genel koordinasyon      | Furkan        | ✅     |
 | **Organizasyon Yönetimi** | Genel koordinasyon      | Efe           | ✅     |
-| **Medya Ekibi**           | Fotoğraf & video        | Yavuz         | ⏳     |
+| **Medya Ekibi**           | Fotoğraf & video        | Yavuz         | ✅     |
+| **Medya Ekibi**           | Fotoğraf & video        | Ahmet         | ✅     |
 | **Materyal Hazırlığı**    | Oyun materyalleri       | Furkan        | ✅     |
 | **Kapı Önü Ekibi**        | Karşılama & yönlendirme | *(atanacak)*  | ⏳     |
 
