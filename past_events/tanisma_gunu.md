@@ -77,11 +77,15 @@
 |                           | Masa 5                  | Yiğit         | ✅     |
 |                           | Masa 6                  | Ulaş          | ✅     |
 |                           | Masa 7                  | Emir          | ✅     |
-|                           | Yedek Masa              | Onur          | ✅     |
+|                           | Masa 8                  | Onur          | ✅     |
 | **Organizasyon Yönetimi** | Genel koordinasyon      | Furkan        | ✅     |
 | **Organizasyon Yönetimi** | Genel koordinasyon      | Efe           | ✅     |
 | **Medya Ekibi**           | Fotoğraf & video        | Yavuz         | ✅     |
 | **Medya Ekibi**           | Fotoğraf & video        | Ahmet         | ✅     |
+| **Medya Ekibi**           | Edit & içerik hazırlama | Ahmet         | ✅     |
 | **Materyal Hazırlığı**    | Oyun materyalleri       | Furkan        | ✅     |
-| **Kapı Önü Ekibi**        | Karşılama & yönlendirme | *(atanacak)*  | ⏳     |
+| **Kapı Önü Ekibi**        | Karşılama & yönlendirme | İdil          | ✅     |
+
+# Sonuç:
+53 katılımcı ile etkinlik gerçekleşmiştir. Memnuniyet anketi atılacak ve sonuçlar kaydedilecek.
 
