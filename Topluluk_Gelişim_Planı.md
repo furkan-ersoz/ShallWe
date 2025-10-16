@@ -13,8 +13,10 @@ Marka ve toıpluluk kimliği güncel hali ile lanse edilmeli, mevzuat güncellen
 
 - Etkinlik seçimi haftası:
   - Etkinlik fikirleri toplanacak
-  - Etkinlikler derlenerek oylamaya sunulacak
-  - Tanışma gününde sonuçlar ile takvim belirlenecek
+
+Tanışma etkinliği beklenenden daha geç başlayıp daha uzun sürdüğü için etkinlik seçimi ve Team toplantısı gerçekleşemedi. Ancak başarı kriteri lan 50 kişiyi sapladı.
+
+### Buraya kadar yapıldı
 
 - Shall We Akademi:
   - Tanışma gününde tanıtımı yapılabilir.
@@ -32,3 +34,5 @@ Marka ve toıpluluk kimliği güncel hali ile lanse edilmeli, mevzuat güncellen
 
 - Departmanlara bölünme
   - 
+  - Etkinlikler derlenerek oylamaya sunulacak
+  - Tanışma gününde sonuçlar ile takvim belirlenecek
