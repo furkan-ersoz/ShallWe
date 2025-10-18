@@ -37,11 +37,21 @@ Ortak kurallar, Yönetim departmanı dışındaki tüm departmanlar için geçer
 
 ## Medya ve Pazarlama Departmanı
 
+## Medya ve Pazarlama Departmanı 2025-26 İlk Dönem Başarı Kriterleri:
+- Instagram düzenli paylaşım.
+- Linkedin düzenli paylaşım ve Team'in işaretlenmesi.
+- Wp gruplarında aktif iletişim sağlanması.
+- İnternet sitesinin güncel ve aktif kullanılıyor olması.
+
 ### Medya ve Pazarlama Departmanı İş Kapsamı, Sorumluluklar:
 - Topluluğun ve topluluk bünyesindeki projelerin görünürlüğünden sorumludur.
 - İletişim kanallarının başarı kriterlerinden sorumludur.
 - Süreklilik teşkil etmesine karar verilen kanalların, düzenli paylaşımlarından sorumludur.
 - Shall We'ye bağlı 2 adet sosyal medya kanalı, 1 adet iletişim kanalı ve 1 adet 
+- Yalnızca resmi bayramlarda (hepsi) ve milli felaketlerde, konsept dışı paylaşım yapma.
+
+
+
 
 
 
