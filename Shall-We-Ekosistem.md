@@ -25,6 +25,7 @@ Buradaki yapı, Shall We topluluğunun belli koşullar altında sahip olması ge
 - Customer Experience Specialist (Müşteri Deneyimi Uzmanı)
 - Talent & Partnership Coordinator (Sanatçı ve İş Birliği Sorumlusu)
 - Venue Researcher (Mekân Araştırmacısı)
+- Gezi ve Seyahat Uzmanı
 
 ## 4. Shall We Akademi (Eğitim ve Gelişim Departmanı)
 - Training Coordinator (Eğitim Koordinatörü)
