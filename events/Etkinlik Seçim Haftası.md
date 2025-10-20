@@ -16,7 +16,8 @@
 - Workshop – Kil - Kült Kavaklıdere
 
 ## Sadece Team'e Açık (Üyeler / Doğrulanmış Katılımcılar)
-- Ilgaz Örsem Gezisi ve Konseri (şehir dışı, çok katılımcılı)
+- Balon futbolu
+- Ilgaz Örsem Gezisi ve Konseri (şehir dışı, çok katılımcılı) (Kayak)
 - Gölcük Tabiat Parkı & At Biniciliği Gezisi (saha dışı, fiziksel risk)
 - Doğa Yürüyüşü & Fotoğrafçılık (kısa, günübirlik parkurlar)
 - Terkedilmiş Köy / Tarihi Yer Gece Keşfi (gece?)
