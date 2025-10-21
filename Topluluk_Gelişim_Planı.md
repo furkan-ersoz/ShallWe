@@ -118,14 +118,18 @@ Marka ve toıpluluk kimliği güncel hali ile lanse edilmeli, mevzuat güncellen
 
 Tanışma etkinliği beklenenden daha geç başlayıp daha uzun sürdüğü için etkinlik seçimi ve Team toplantısı gerçekleşemedi. Ancak başarı kriteri lan 50 kişiyi sapladı.
 
-### Buraya kadar yapıldı
-
 - Shall We Akademi:
   - Tanışma gününde tanıtımı yapılabilir.
   - Linkedin hesabı açmak
   - Sertifika tasarımı
   - Sosyal medya tanıtımı
   - Siteye entegrasyon
+
+- Departman davetleri:
+  - Departmanlar tanıtılıp davetler gerçekleştirilecek.
+
+İlk Team toplantısını gerçekleştirdir, başarı kriterinin(20 kişi) üzerinde (25 kişi) katılım sağlandı. Akademi tam anlamıyla tanıtıldı. 
+### Buraya kadar yapıldı
 
 - Shall We House:
   - Tanışma günü sonraki hafta inşa işlemleri başlar ve üstünkörü tamamlanır
@@ -134,7 +138,6 @@ Tanışma etkinliği beklenenden daha geç başlayıp daha uzun sürdüğü içi
     - Departmanlara bölme işlemi
     - Önümüzdeki etkinlikler için iş bölümü
 
-- Departmanlara bölünme
-  - 
+
   - Etkinlikler derlenerek oylamaya sunulacak
   - Tanışma gününde sonuçlar ile takvim belirlenecek
